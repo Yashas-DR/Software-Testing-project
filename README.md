@@ -78,5 +78,3 @@ A sample test report is shown below:
 
 ---
 
-## License
-This project is licensed under the MIT License.
